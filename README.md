@@ -10,8 +10,7 @@ This repository hosts the privacy policy and information site for the Simple DC 
 
 ## GitHub Pages
 
-This site is available at:
-https://zhukov123.github.io/simpledcmetro/
+This app does not have a public website.
 
 ## Privacy Policy
 
