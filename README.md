@@ -10,8 +10,8 @@ This repository hosts the privacy policy and information site for the Simple DC 
 
 ## GitHub Pages
 
-This site is automatically deployed to GitHub Pages at:
-https://simpledcmetro.github.io
+This site is available at:
+https://zhukov123.github.io/simpledcmetro/
 
 ## Privacy Policy
 
@@ -25,8 +25,7 @@ The privacy policy covers:
 ## Contact
 
 For questions about the privacy policy or the app:
-- Email: privacy@simpledcmetro.app
-- GitHub: https://github.com/vishwakapoor/Metro
+- Email: softwarehedgehog@gmail.com
 
 ## License
 
